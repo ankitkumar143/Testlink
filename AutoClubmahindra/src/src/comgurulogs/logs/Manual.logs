@@ -1,0 +1,44 @@
+18/05/2017 15:34:42 devpinoyLogger Hello
+18/05/2017 15:34:42 devpinoyLogger Properties loaded. Starting testing
+18/05/2017 15:34:42 devpinoyLogger Intialize Suite xls
+18/05/2017 15:34:42 devpinoyLogger Testlink -- Y
+18/05/2017 15:34:42 devpinoyLogger ******Executing the Suite******Testlink
+18/05/2017 15:34:42 devpinoyLogger testlink Login -- Y
+18/05/2017 15:34:42 devpinoyLogger Executing the test case -> testlink Login
+18/05/2017 15:34:42 devpinoyLogger Iteration number 1
+18/05/2017 15:34:42 devpinoyLogger openBrowser
+18/05/2017 15:34:42 devpinoyLogger Opening browser
+18/05/2017 15:34:52 devpinoyLogger PASS
+18/05/2017 15:34:52 devpinoyLogger navigate
+18/05/2017 15:34:52 devpinoyLogger Navigating to URL
+18/05/2017 15:34:59 devpinoyLogger PASS
+18/05/2017 15:34:59 devpinoyLogger writeInInput
+18/05/2017 15:34:59 devpinoyLogger Writing in text box
+18/05/2017 15:35:01 devpinoyLogger PASS
+18/05/2017 15:35:01 devpinoyLogger writeInInput
+18/05/2017 15:35:01 devpinoyLogger Writing in text box
+18/05/2017 15:35:03 devpinoyLogger PASS
+18/05/2017 15:35:03 devpinoyLogger clickButton
+18/05/2017 15:35:03 devpinoyLogger Clicking on Button
+18/05/2017 15:35:24 devpinoyLogger PASS
+18/05/2017 15:35:24 devpinoyLogger Switchframe
+18/05/2017 15:35:24 devpinoyLogger Select the dropdown list
+18/05/2017 15:35:24 devpinoyLogger PASS
+18/05/2017 15:35:24 devpinoyLogger clickButton
+18/05/2017 15:35:24 devpinoyLogger Clicking on Button
+18/05/2017 15:35:51 devpinoyLogger PASS
+18/05/2017 15:35:51 devpinoyLogger clickButton
+18/05/2017 15:35:51 devpinoyLogger Clicking on Button
+18/05/2017 15:36:11 devpinoyLogger PASS
+18/05/2017 15:36:11 devpinoyLogger writeInInput
+18/05/2017 15:36:11 devpinoyLogger Writing in text box
+18/05/2017 15:36:12 devpinoyLogger PASS
+18/05/2017 15:36:12 devpinoyLogger writeInInput
+18/05/2017 15:36:12 devpinoyLogger Writing in text box
+18/05/2017 15:36:13 devpinoyLogger PASS
+18/05/2017 15:36:13 devpinoyLogger clickButton
+18/05/2017 15:36:13 devpinoyLogger Clicking on Button
+18/05/2017 15:36:33 devpinoyLogger PASS
+18/05/2017 15:36:33 devpinoyLogger clickButton
+18/05/2017 15:36:33 devpinoyLogger Clicking on Button
+18/05/2017 15:36:53 devpinoyLogger PASS
