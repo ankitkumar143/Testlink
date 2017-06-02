@@ -1,0 +1,44 @@
+24/05/2017 19:10:31 devpinoyLogger Loaded Firefox
+24/05/2017 19:10:31 devpinoyLogger Executing the test Navigate
+24/05/2017 19:10:31 devpinoyLogger Executing Navigate
+24/05/2017 19:10:36 devpinoyLogger ***Result of execution -- Pass
+24/05/2017 19:10:36 devpinoyLogger Error came
+24/05/2017 19:10:36 devpinoyLogger ######################Navigate --- Pass
+24/05/2017 19:10:36 devpinoyLogger Executing the test demotours
+24/05/2017 19:10:36 devpinoyLogger Executing Navigate
+24/05/2017 19:10:37 devpinoyLogger ***Result of execution -- Pass
+24/05/2017 19:10:37 devpinoyLogger Executing clickLink
+24/05/2017 19:10:38 devpinoyLogger ***Result of execution -- Pass
+24/05/2017 19:10:38 devpinoyLogger Executing wait Keyword
+24/05/2017 19:10:48 devpinoyLogger ***Result of execution -- Pass
+24/05/2017 19:10:48 devpinoyLogger Executing input Keyword
+24/05/2017 19:10:48 devpinoyLogger Error while wrinting into input -FirstnameThe given selector html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/ is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/ because of the following error:
+SyntaxError: The expression is not a legal expression.
+Command duration or timeout: 81 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'KELLGGNCPU0154', ip: '192.168.13.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.0, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a1b98211-a0cb-40eb-8197-a8fe0a20e3a2
+24/05/2017 19:10:48 devpinoyLogger ***Result of execution -- Fail - The given selector html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/ is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/ because of the following error:
+SyntaxError: The expression is not a legal expression.
+Command duration or timeout: 81 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'KELLGGNCPU0154', ip: '192.168.13.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.0, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a1b98211-a0cb-40eb-8197-a8fe0a20e3a2
+24/05/2017 19:10:48 devpinoyLogger ######################demotours --- Fail - The given selector html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/ is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/ because of the following error:
+SyntaxError: The expression is not a legal expression.
+Command duration or timeout: 81 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'KELLGGNCPU0154', ip: '192.168.13.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.0, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a1b98211-a0cb-40eb-8197-a8fe0a20e3a2

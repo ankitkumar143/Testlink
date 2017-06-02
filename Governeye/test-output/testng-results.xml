@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="My Sample Suite" duration-ms="5464564" started-at="2017-06-02T09:07:44Z" finished-at="2017-06-02T10:38:49Z">
+    <groups>
+    </groups>
+    <test name="Driver Script Suite 1" duration-ms="5464564" started-at="2017-06-02T09:07:44Z" finished-at="2017-06-02T10:38:49Z">
+      <class name="testApps.DriverApp">
+        <test-method status="PASS" signature="startTesting()[pri:0, instance:testApps.DriverApp@20398b7c]" name="startTesting" is-config="true" duration-ms="9801" started-at="2017-06-02T14:37:34Z" finished-at="2017-06-02T14:37:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTesting -->
+        <test-method status="PASS" signature="testApp()[pri:0, instance:testApps.DriverApp@20398b7c]" name="testApp" duration-ms="5464510" started-at="2017-06-02T14:37:44Z" finished-at="2017-06-02T16:08:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+        <test-method status="PASS" signature="endScript()[pri:0, instance:testApps.DriverApp@20398b7c]" name="endScript" is-config="true" duration-ms="60" started-at="2017-06-02T16:08:49Z" finished-at="2017-06-02T16:08:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endScript -->
+      </class> <!-- testApps.DriverApp -->
+    </test> <!-- Driver Script Suite 1 -->
+  </suite> <!-- My Sample Suite -->
+</testng-results>
