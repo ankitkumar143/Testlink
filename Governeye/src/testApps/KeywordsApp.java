@@ -427,7 +427,7 @@ public static String changewindow() throws Exception{
 				//long l = Long.parseLong(data); 
 				WebDriverWait wait = new WebDriverWait(driver,test1);
 				wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(Objects.getProperty(object))));
-				
+				wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath(Objects.getProperty(object))));
 			}catch(Throwable t){
 				APPLICATION_LOGS.debug("Error while waiting -"+ object + t.getMessage());
 			    return "Fail - "+t.getMessage();
