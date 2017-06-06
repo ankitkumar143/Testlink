@@ -224,7 +224,35 @@ public class KeywordsApp extends DriverApp {
 		} 
 		
 		
-		
+		//verifyTextOnThePage
+				public void verifyTextOnpage () throws InterruptedException{
+					final WebDriverException exception =new WebDriverException();
+					String expected =testData.getCellData(currentTest, data_column_name , testRepeat);
+                   try{
+						List<WebElement> listOptions=driver.findElements(By.xpath(Objects.getProperty(object)));
+						for(WebElement we : listOptions)
+						{
+							String text=we.getText();
+							System.out.println("ENter in loop");
+							System.out.println(text);
+							if(text.equalsIgnoreCase(expected))
+							{
+								System.out.println(expected +" post is on this page");
+							
+								
+							}else{
+								APPLICATION_LOGS.debug("post is NOT on this page");
+								throw new WebDriverException(exception.getMessage());
+
+							}
+						}	
+					}
+					catch (WebDriverException e) {
+					throw new WebDriverException(e.getMessage());
+					}
+					
+				} 
+
 		public static String clickButton(){
 			APPLICATION_LOGS.debug("Executing clickButton Keyword");
 			
