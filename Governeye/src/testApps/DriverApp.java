@@ -97,7 +97,7 @@ public class DriverApp{
 		 
 		 // Start testing method will start generating the Test Reports from the beginning       
 		//TestReports.startTesting("C://tomcat//webapps//ROOT//htmlpages"+strDate+".html",
-     	TestReports.startTesting("C://Users//ankit.kumar//workspace//Governeye//Reports//htmlpages"+strDate+".html",
+     	TestReports.startTesting("C://Users//ankit.kumar//git//Governeye//Reports//htmlpages"+strDate+".html",
 		TestUtil.now("dd.MMMMM.yyyy hh.mm.ss aaa"), 
         "Monitor Prod",
         "3.1");
